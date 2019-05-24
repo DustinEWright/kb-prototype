@@ -1,3 +1,17 @@
 body {
     background-color: lightgray;
 }
+
+.jumbotron {
+    margin-top: 3em;
+}
+
+.jumbotron h1 {
+    text-align: center;
+    color: green;
+}
+
+.jumbotron p {
+    text-align: left;
+    color: blueviolet;
+}
